@@ -1,0 +1,8 @@
+government_form,code,name,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,head_of_state,capital,code2
+Republic,AGO,Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,7984.0,Angola,Jose Eduardo dos Santos,56.0,AO
+Republic,BWA,Botswana,Africa,Southern Africa,581730.0,1966.0,1622000,39.3,4834.0,4935.0,Botswana,Festus G. Mogae,204.0,BW
+Republic,MOZ,Mozambique,Africa,Eastern Africa,801590.0,1975.0,19680000,37.5,2891.0,2711.0,Mocambique,JoaquIm A. Chissano,2698.0,MZ
+Republic,MWI,Malawi,Africa,Eastern Africa,118484.0,1964.0,10925000,37.6,1687.0,2527.0,Malawi,Bakili Muluzi,2462.0,MW
+Republic,RWA,Rwanda,Africa,Eastern Africa,26338.0,1962.0,7733000,39.3,2036.0,1863.0,Rwanda/urwanda,Paul Kagame,3047.0,RW
+Republic,ZMB,Zambia,Africa,Eastern Africa,752618.0,1964.0,9169000,37.2,3377.0,3922.0,Zambia,Frederick Chiluba,3162.0,ZM
+Republic,ZWE,Zimbabwe,Africa,Eastern Africa,390757.0,1980.0,11669000,37.8,5951.0,8670.0,Zimbabwe,Robert G. Mugabe,4068.0,ZW
